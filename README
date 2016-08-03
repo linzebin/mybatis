@@ -10,6 +10,7 @@ org.apache.ibatis.logging.log4j2
 org.apache.ibatis.logging.nologging
 org.apache.ibatis.logging.slf4j
 org.apache.ibatis.logging.stdout
+工厂模式,反射
 
 2.异常
 org.apache.ibatis.exceptions
@@ -18,6 +19,7 @@ org.apache.ibatis.exceptions
 org.apache.ibatis.cache
 org.apache.ibatis.cache.decorators
 org.apache.ibatis.cache.impl
+标准的装饰者模式
 
 4.解析
 org.apache.ibatis.parsing
