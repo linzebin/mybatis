@@ -30,6 +30,7 @@ xml解析，${} 格式的字符串解析
 org.apache.ibatis.type
 实现java和jdbc中的类型之间转换
 源码分析可以参考http://www.cnblogs.com/sunzhenchao/archive/2013/04/09/3009431.html
+建立javaType,jdbcType,typeHandler之间的联系,可用来自定义类型处理器,如joda time,String[]
 
 6.IO
 org.apache.ibatis.io
